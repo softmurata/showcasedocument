@@ -20,3 +20,4 @@
 - segmentation
 - LLM
 - ControlNet
+- Object Detection
