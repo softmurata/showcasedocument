@@ -13,6 +13,8 @@
 - [Oneformer](https://praeclarumjj3.github.io/oneformer/)
 - [ControlNet](https://github.com/lllyasviel/ControlNet-v1-1-nightly)
 
+### Related Notebooks
+
 ### Tags
 - stable diffusion
 - segmentation
