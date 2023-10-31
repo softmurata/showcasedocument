@@ -16,6 +16,7 @@
 - [Matting Anything](https://github.com/SHI-Labs/Matting-Anything)
 - [ControlNet](https://github.com/lllyasviel/ControlNet-v1-1-nightly)
 - [MaskBlend](https://note.nkmk.me/python-pillow-composite/)
+- [InstructBlip](https://ja.stability.ai/blog/japanese-instructblip-alpha)
 
 
 ### Related Notebooks
